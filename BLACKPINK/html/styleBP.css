@@ -1,0 +1,41 @@
+
+    body{
+        background-color: rgb(247, 147, 208);
+    }
+
+    p{
+        text-align: justify;
+        font-family:"Kanit", sans-serif;
+        font-size: 18px;
+        border-radius: 10px;
+        /*border: 5px dotted peru;*/
+       
+    }
+
+    img{
+        width: 280px;
+        height: 280px;
+        border-radius: 100px;
+    }
+
+    .container{
+        background-image: url(imagenes/fondorosa.jpeg);
+        justify-content: unsafe;
+        background-repeat: no-repeat;
+        background-size: cover;
+        padding: 120px;
+    }
+
+    .uno{
+        width: 398px;
+        height: 280px;
+        background-position: center;
+        border-color: rgb(231, 86, 147);
+    }
+    
+    .container2{
+        background-image: url(imagenes/fondo2.jpeg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        padding: 100px;
+    }
